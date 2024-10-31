@@ -4,9 +4,9 @@
   "packageManager": "pnpm@9.4.0",
   "type": "module",
   "scripts": {
-    "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "blog:dev": "vitepress dev",
+    "blog:build": "vitepress build",
+    "blog:preview": "vitepress preview"
   },
   "dependencies": {
     "vue": "^3.5.12"

@@ -1,4 +1,7 @@
 {
+  "name": "maxrokitsky.github.io",
+  "version": "0.0.1",
+  "packageManager": "pnpm@9.4.0",
   "type": "module",
   "scripts": {
     "docs:dev": "vitepress dev",
